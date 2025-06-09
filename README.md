@@ -34,5 +34,5 @@ The solution follows a modular architecture:
 
 ![deepseek_mermaid_20250609_e1a805](https://github.com/user-attachments/assets/94ddc3bd-ce98-4cfe-9b58-9a58115a0983)
 
-![s](https://github.com/user-attachments/assets/a29e94de-78b5-4b22-9dcf-3837ef7889fb)
+![screencapture-localhost-3000-2025-04-29-20_27_25](https://github.com/user-attachments/assets/baf278f4-ad60-402b-ab39-a6fd5eddcb7b)
 
